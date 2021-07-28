@@ -1,28 +1,20 @@
-# Hi! I'm nib9888
+# nib9888
 
-I'm a python coder who uses gentoo linux as a daily driver, with s6 as an init system.\
-I love code done 'The Right Way' (See s6 and suckless). I think that rust is amazing, and really want to learn it.
+```
+ _  _                     
+| |(_)                    
+| | _  _ __   _   _ __  __
+| || || '_ \ | | | |\ \/ /
+| || || | | || |_| | >  < 
+|_||_||_| |_| \__,_|/_/\_\
+                          
+```
+Hi! I'm a python coder predominantly, but I want to learn Rust and/or C.
 
-I like:
-  - s6
-  - Portage
-  - skarnet.org
-  - vim
-  - Wayland
-  - ipfs
-  - rust
-  - Good code
-  - xkcd
-  - s6!
+I'm a fan of [s6](https://skarnet.org/software/s6), Shostakovich and [good code](https://skarnet.org/software/skalibs/djblegacy.html).
 
-I dislike:
- - systemd
- - Pulseaudio
- - Xorg
- - GNOME
- - Proprietary stuff
- - Hard dependencies
- - DRM
- - JS
- - C++
+Static websites are fun (no js, just css), and dynamic websites are on my todo list!
 
+Certain software can also be [considered harmful](http://harmful.cat-v.org/software/) :)
+
+Feel free to take a look around my very few repos!
