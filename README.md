@@ -13,6 +13,6 @@ Hi! I'm a python coder predominantly, but I want to learn Rust and/or C.
 
 I'm a fan of [s6](https://skarnet.org/software/s6), Shostakovich, Ludovico Einaudi, and [good code](https://skarnet.org/software/skalibs/djblegacy.html).
 
-Static websites are fun (no js, just css), and js as a replacement of CSS3 is causing issues for the modern web...
+Minimal websites are fun (no js, just css), and webapps are overrated...
 
 Feel free to take a look around my very few repos!
